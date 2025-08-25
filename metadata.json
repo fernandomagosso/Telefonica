@@ -1,0 +1,5 @@
+{
+  "name": "Telefonica",
+  "description": "An application to analyze, compare, and generate unified regulatory voice plan documents using AI.",
+  "requestFramePermissions": []
+}
